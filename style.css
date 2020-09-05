@@ -1,0 +1,4 @@
+.display-4::selection {
+  background: yellow;
+  color: black;
+}
